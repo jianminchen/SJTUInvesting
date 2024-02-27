@@ -1,0 +1,6 @@
+
+
+Buy 25 shares CHTR 292.7496, stop price 290.00 
+Buy PYPL 20 x 58.4923, stop price 57
+buy MO 10 x 40.835, stop price 39 
+buy CCL 30 x 15.2397, stop 14
